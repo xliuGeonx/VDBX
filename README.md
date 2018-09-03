@@ -3,6 +3,7 @@
 	Author : Adam L. squall02167453@gmail.com
 
 Predefine entry Path:
+
 BOOST_ROOT:
 
 CUDA_SAMPLE_ROOT: 
